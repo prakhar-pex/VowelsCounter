@@ -33,5 +33,11 @@ public class VowelWordCounter {
         } catch (IOException e) {
             System.out.println("Error writing file: " + e.getMessage());
         }
+        System.out.println("commit1");
+        System.out.println("commit2");
+        System.out.println("commit3");
+
+
     }
+    
 }
